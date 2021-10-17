@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mxke
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a dev team
+- 📫 How to reach me discord:mxke#3882
